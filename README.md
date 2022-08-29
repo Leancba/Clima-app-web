@@ -1,4 +1,4 @@
-# Movie app with React Redux
+# Clima app with React
 
 Link : https://leancba-clima-app.herokuapp.com/
 
